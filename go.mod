@@ -1,3 +1,3 @@
-module mokoOsamu
+module github.com/CAT5NEKO/mokoOsamu
 
-go 1.21
+go 1.21.1
