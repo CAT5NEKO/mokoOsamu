@@ -22,3 +22,5 @@ OSAMIZEは、指定されたパス内のファイルをサイズ順に精査し�
 SystemVolumeInformationというフォルダがあると、アクセス権限がないためエラーが発生します。そのため、このフォルダを無視するようにしています。
 
 権限によりファイルの精査が拒否される場合は管理者権限で実行すると回避できます。
+
+![image](https://github.com/CAT5NEKO/mokoOsamu/assets/111590457/5f40dd2f-5be5-46a9-9085-714e3fae7948)
